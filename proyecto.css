@@ -1,0 +1,11 @@
+body{
+   background-color: bisque;
+}
+
+span{
+   color: aqua;
+}
+
+span:hover{
+   color: yellowgreen;
+}
