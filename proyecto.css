@@ -8,10 +8,9 @@ span{
 
 span:hover{
    color: yellowgreen;
-
 }
 
 body:hover{
-   background-color: rgb(255, 0, 0);
+   background-color: rgb(255, 0, 220);
 }
 
