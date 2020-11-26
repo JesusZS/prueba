@@ -1,5 +1,5 @@
 body{
-   background-color: bisque;
+   background-color: rgb(0, 0, 0);
 }
 
 span{
@@ -8,4 +8,10 @@ span{
 
 span:hover{
    color: yellowgreen;
+
 }
+
+body:hover{
+   background-color: rgb(255, 0, 0);
+}
+
