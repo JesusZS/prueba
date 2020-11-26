@@ -14,3 +14,8 @@ body:hover{
    background-color: rgb(255, 0, 220);
 }
 
+.main_menu{
+    background-color: red;
+    width: 60%;
+    height: 2em;
+}
